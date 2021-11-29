@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\source\repos\RodriFlix\RodriFlix\bin\Debug\net45\RodriFlix.exe.config
+C:\Users\Rodrigo\source\repos\RodriFlix\RodriFlix\bin\Debug\net45\RodriFlix.exe
+C:\Users\Rodrigo\source\repos\RodriFlix\RodriFlix\bin\Debug\net45\RodriFlix.pdb
+C:\Users\Rodrigo\source\repos\RodriFlix\RodriFlix\obj\Debug\net45\RodriFlix.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\RodriFlix\RodriFlix\obj\Debug\net45\RodriFlix.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\RodriFlix\RodriFlix\obj\Debug\net45\RodriFlix.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\RodriFlix\RodriFlix\obj\Debug\net45\RodriFlix.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\RodriFlix\RodriFlix\obj\Debug\net45\RodriFlix.exe
+C:\Users\Rodrigo\source\repos\RodriFlix\RodriFlix\obj\Debug\net45\RodriFlix.pdb
